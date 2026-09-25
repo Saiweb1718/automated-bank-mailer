@@ -152,6 +152,6 @@ automated-bank-mailer/
 │       └── utils/            # Templates, helpers
 ```
 
-## Team
+## Author
 
-Built collaboratively by a team of 3 developers.
+Designed and built solo by [Saideep Sriram](https://github.com/Saiweb1718).
